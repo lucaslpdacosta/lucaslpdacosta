@@ -1,5 +1,5 @@
 # Olá! 💻🔥
-#
+
 ### O ser humano evolui de acordo com sua própria necessidade. 💡
 #
 # Atualmente envolvido com:
@@ -11,7 +11,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?logo=mysql&logoColor=white&style=flat)
 ![NodeJS](https://img.shields.io/badge/-Node.js-%23339933?logo=node.js&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white&style=flat)
-#
+
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslpdacosta&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslpdacosta&layout=compact&hide=html,css&theme=radical)
 #
