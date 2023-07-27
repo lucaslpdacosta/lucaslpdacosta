@@ -12,5 +12,5 @@
 ![NodeJS](https://img.shields.io/badge/-Node.js-%23339933?logo=node.js&logoColor=black&style=flat)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=black&style=flat)
 
-```![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslpdacosta&show_icons=true&theme=radical)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslpdacosta&show_icons=true&theme=radical)
 ```![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslpdacosta&layout=compact&hide=html,css&theme=radical)
