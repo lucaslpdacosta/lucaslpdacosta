@@ -1,7 +1,7 @@
 # Olá! 💻🔥
 
 ### O ser humano evolui de acordo com sua própria necessidade. 💡
-
+#
 # Atualmente envolvido com:
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=black&style=flat)
