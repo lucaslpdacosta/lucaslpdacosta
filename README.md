@@ -13,4 +13,3 @@
 ![Python](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=black&style=flat)
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslpdacosta&show_icons=true&theme=radical)
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslpdacosta&show_icons=true&theme=radical)
