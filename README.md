@@ -2,7 +2,7 @@
 
 ### O ser humano evolui de acordo com sua própria necessidade. 💡
 
-## Atualmente envolvido com:
+# Atualmente envolvido com:
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=flat)
