@@ -19,12 +19,22 @@
 ![NodeJS](https://img.shields.io/badge/-Node.js-%23339933?logo=node.js&logoColor=white&style=flat)
 
 ### 🌐 **Conecte-se comigo!**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/lucaslpdacosta/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/lucaslpdacosta)  
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-%2371C800?logo=whatsapp&logoColor=white&style=flat)](https://wa.me/5584986384659?text=Ol%C3%A1%21)
-  <a href="mailto:lucaslpdacosta1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+
+<a href="https://www.linkedin.com/in/lucaslpdacosta/">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+</a>  
+
+<a href="https://www.instagram.com/lucaslpdacosta">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
+</a>  
+
+<a href="https://wa.me/5584986384659?text=Ol%C3%A1%21">
+  <img src="https://img.shields.io/badge/-WhatsApp-%2371C800?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp">
+</a>  
+
+<a href="mailto:lucaslpdacosta1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslpdacosta&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslpdacosta&layout=compact&hide=html,css&theme=radical)
