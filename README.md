@@ -36,5 +36,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
+<br><br> 
+
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslpdacosta&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslpdacosta&layout=compact&hide=html,css&theme=radical)
