@@ -16,6 +16,7 @@
 ![R](https://img.shields.io/badge/-R-%23276DC3?logo=r&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?logo=mysql&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?logo=postgresql&logoColor=white&style=flat)
 ![NodeJS](https://img.shields.io/badge/-Node.js-%23339933?logo=node.js&logoColor=white&style=flat)
 
 ### 🌐 **Conecte-se comigo!**
