@@ -2,7 +2,7 @@
 
 ### O ser humano evolui de acordo com sua própria necessidade. 💡
 #
-### Tech Stack atual:
+### 💡 **Tech Stack atual:**
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=black&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%2338B2AC?logo=tailwindcss&logoColor=white&style=flat)
