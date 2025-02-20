@@ -19,6 +19,11 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?logo=postgresql&logoColor=white&style=flat)
 ![NodeJS](https://img.shields.io/badge/-Node.js-%23339933?logo=node.js&logoColor=white&style=flat)
 
+#
+
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslpdacosta&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslpdacosta&layout=compact&hide=html,css&theme=radical)
+
 ### 🌐 **Conecte-se comigo!**
 
 <a href="https://www.linkedin.com/in/lucaslpdacosta/">
@@ -36,8 +41,3 @@
 <a href="mailto:lucaslpdacosta1@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
-#
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslpdacosta&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslpdacosta&layout=compact&hide=html,css&theme=radical)
